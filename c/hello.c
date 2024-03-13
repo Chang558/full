@@ -2,23 +2,4 @@
 
 void main(){
     printf("Hello, Wold~!!\n");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 }
-
-
-
