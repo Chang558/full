@@ -24,3 +24,6 @@ scala/**/target
 
 #maven
 maven/**/target
+
+##python venv
+python/**/.venv
