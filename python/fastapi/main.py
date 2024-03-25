@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-api = FastAPI()
+app = FastAPI()
 
 @app.get("/")
 def read_root():
@@ -7,5 +7,3 @@ def read_root():
 
 if __name__ == '__main__':
     uvicorn.run(app, host="0.0.0.0", port=3000)
-
-

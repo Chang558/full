@@ -27,3 +27,6 @@ maven/**/target
 
 ##python venv
 python/**/.venv
+python/**/.pycache__/
+
+##
