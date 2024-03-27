@@ -1,0 +1,3 @@
+use teset
+
+db.bios.find().pretty()
